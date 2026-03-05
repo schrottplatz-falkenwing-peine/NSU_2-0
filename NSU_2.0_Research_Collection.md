@@ -234,6 +234,45 @@ According to bpb analysis, NSU represents:
 
 ---
 
+## International Copycat Phenomenon (2025)
+
+### Global NSU 2.0-Inspired Threats
+
+**AI Overview Analysis (2025):**
+- **Evolution**: NSU 2.0 threats continue evolving with new copycat perpetrators despite main suspect's 2022 conviction
+- **Persistence**: Threats remain persistent through online intimidation, doxing, and "mainstreaming" of right-wing ideologies
+- **International Spread**: NSU 2.0 methodology inspiring similar threat campaigns globally
+
+### International Copycat Incidents (August 2025)
+
+**United Kingdom:**
+- **Gaming Platform Radicalization**: Far-right extremists exploiting livestream gaming platforms to radicalize teenagers
+- **Youth Targeting**: MI5 reports 13% of terrorism investigations now involve under-18s (threefold increase)
+- **Platform Migration**: Extremists redirecting teens from mainstream social media to less regulated spaces like Discord
+
+**Australia:**
+- **Nazi Symbol Incidents**: Three teens charged for Nazi graffiti in Canberra shopping center
+- **Anti-Immigration Rallies**: "March for Australia" protests organized by far-right influencers
+- **White Supremacist Networks**: Events used for recruitment and propaganda despite organizer denials
+
+**United States:**
+- **White Separatist Communities**: Arkansas "Return to the Land" settlement gaining international attention
+- **Christian Nationalism**: Growing fusion of nationalism and religious rhetoric
+- **Legal Challenges**: Groups avoiding hate group labels while promoting segregationist ideologies
+
+### Copycat Methodologies
+- **Digital Adaptation**: Using gaming platforms and encrypted messaging
+- **Youth Recruitment**: Targeting teenagers through online gaming communities
+- **Symbolic Actions**: Nazi graffiti, hate symbols, and threatening communications
+- **Mainstreaming Tactics**: Presenting extremist ideas as cultural preservation
+
+### International Response Patterns
+- **Law Enforcement Challenges**: Difficulty prosecuting due to coded language and platform limitations
+- **Intelligence Sharing**: Increased international cooperation on far-right threats
+- **Prevention Focus**: Emphasis on online monitoring and youth protection programs
+
+---
+
 ## Official Intelligence Assessment (2025)
 
 ### Bundesamt für Verfassungsschutz Report: "Right-Wing Extremism on the Internet" (January 2025)
